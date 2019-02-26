@@ -1,0 +1,15 @@
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\bin\Debug\Ornaments Rate Checker.exe.config
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\bin\Debug\Ornaments Rate Checker.exe
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\bin\Debug\Ornaments Rate Checker.pdb
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\obj\Debug\MainWindow.g.cs
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\obj\Debug\App.g.cs
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\obj\Debug\Ornaments Rate Checker_MarkupCompile.cache
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\obj\Debug\Ornaments Rate Checker_MarkupCompile.lref
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\obj\Debug\MainWindow.baml
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\obj\Debug\Ornaments Rate Checker.g.resources
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\obj\Debug\Ornaments_Rate_Checker.Properties.Resources.resources
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\obj\Debug\Ornaments Rate Checker.csproj.GenerateResource.cache
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\obj\Debug\Ornaments Rate Checker.csproj.CoreCompileInputs.cache
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\obj\Debug\Ornaments Rate Checker.exe
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\obj\Debug\Ornaments Rate Checker.pdb
+C:\Users\Harshal\Desktop\Ornaments Rate Checker\Ornaments Rate Checker\obj\Debug\Ornaments Rate Checker.csprojAssemblyReference.cache
